@@ -30,5 +30,5 @@
 ## ⚙️ &nbsp;GitHub Analytics:
 
 [![](https://github-readme-stats.vercel.app/api?username=bautistamangoni&show_icons=true&theme=material-palenight&hide_border=true&locale=en)](https://github.com/bautistamangoni)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=bautistamangoni&theme=material-palenight)](https://github.com/bautistamangoni)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=bautistamangoni&theme=material-palenight&hide_border=true)](https://github.com/bautistamangoni)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=bautistamangoni&layout=compact&theme=material-palenight&hide_border=true)](https://github.com/bautistamangoni)
